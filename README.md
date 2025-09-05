@@ -14,8 +14,11 @@
 
 ## 🔹 Skills  
 **Networking & Security:** Cisco (CCNA in progress), Firewalls, VPN, Secure Protocols, Wireshark, Nmap, Metasploit, Burp Suite, SQLMap, Hydra, IDS/IPS, SIEM, Digital Forensics, Endpoint Security  
+
 **Systems & Tools:** Linux, Windows, Active Directory, PowerShell, Bash, Git, Microsoft 365, VMware/VirtualBox  
+
 **Programming & Automation:** Python scripting, Bash automation  
+
 **Core Competencies:** Incident Response, Risk Management, Secure Communications, Troubleshooting Under Pressure, Leadership & Training  
 
 ---
