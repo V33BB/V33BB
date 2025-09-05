@@ -40,7 +40,7 @@
 
 ## 🔹 Connect with Me  
 
-- 🔗 [LinkedIn]([https://www.linkedin.com/in/joshua-vankeulen-bartlett](https://www.linkedin.com/in/jos-h-v-b72505210/))  
+- 🔗 [LinkedIn]  ([https://www.linkedin.com/in/joshua-vankeulen-bartlett](https://www.linkedin.com/in/jos-h-v-b72505210/))  
 
 - 🏅 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/VE33.png)  
 
